@@ -7,7 +7,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Lab Works](#lab-works)
-* [Setup](#setup)
+
 
 ## General info
 This repo includes AGH University "Operating Systems" laboratuar tasks which are working with **_bash_** in **_Linux_**.
