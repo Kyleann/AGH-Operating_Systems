@@ -20,6 +20,7 @@ This repo includes AGH University "Operating Systems" laboratuar tasks which are
 - [x] Lab 07 and 08 Processes --> [Documentation 07-08](https://github.com/Kyleann/Operating-Systems/files/10022445/07.and.08.Processes.pdf)
 - [x] Lab 09 and 10 Memory --> [Documentation 09-10](https://github.com/Kyleann/Operating-Systems/files/10022502/09.and.10.Memory.pdf)
 - [ ] Lab 11 and 12 Filesystem  --> [Documentation 11-12]
+- [ ] Lab 13 Threads  --> [Documentation 11-12]
 - [ ] Exercises --> [Documentation Ex.] 
 
 
